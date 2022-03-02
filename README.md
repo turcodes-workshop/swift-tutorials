@@ -1,2 +1,2 @@
-# swift-tutorials
+# Swift Tutorials
 My some swift studies
